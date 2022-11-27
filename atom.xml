@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>CCA PPS Club</title>
+	<subtitle>We are the Programming and Problem Solving Club, the largest programming club on campus.</subtitle>
+	<link href="https://cca-pps.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://cca-pps.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-10-01T09:35:40-07:00</updated>
+	<id>https://cca-pps.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Our First Announcement!</title>
+		<published>2022-10-01T09:35:40-07:00</published>
+		<updated>2022-10-01T09:35:40-07:00</updated>
+		<link rel="alternate" href="https://cca-pps.github.io/announcements/firstannouncement/" type="text/html"/>
+		<id>https://cca-pps.github.io/announcements/firstannouncement/</id>
+		<content type="html">&lt;p&gt;Hello everyone, and welcome to the new Programming and Problem Solving Club website!&lt;&#x2F;p&gt;
+&lt;p&gt;Here, we will be posting slides and making announcements for competitions.&lt;&#x2F;p&gt;
+&lt;p&gt;As time passes, we will add more features and fun to our site! We hope to continue to see you all on Wednesdays after school (F101)!&lt;&#x2F;p&gt;
+&lt;p&gt;If you are new here, click around and consider joining the club! We promise it&#x27;s very fun :)&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
