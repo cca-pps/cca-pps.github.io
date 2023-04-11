@@ -143,7 +143,7 @@ weight = 0
 
 # Footer contents
 [extra.footer]
-info = '&copy; 2022 CCA PPS Club'
+info = '&copy; 2023 CCA PPS Club'
 
 #[[extra.footer.nav]]
 #name = "Privacy"
