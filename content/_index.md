@@ -3,7 +3,7 @@ title = "CCA Programming and Problem Solving Club"
 
 [extra]
 lead = """We are the largest programming club on campus! \
-We meet weekly on Wednesdays from 3:30-4:50 pm in room F101. \
+We meet weekly on Wednesdays from 3:30-4:50 pm in room F104. \
 We are interested in solving algorithmic problems and compete in competitions such as \
 <a href="http://usaco.org">USACO</a> and <a href="https://www.stanfordacm.org/proco/info">Stanford ProCo</a>"""
 url = "/join"
