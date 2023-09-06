@@ -4,6 +4,8 @@ description = "Our Team"
 +++
 ## 2023-24 Officers
 
+Thanks to Mrs. Celniker for being our club advisor.
+
 - President: Ryan Bai
 - Vice Presidents: Evan Luo, Stephen Zhu
 - Treasurers: Alex Backues, Hansen He
