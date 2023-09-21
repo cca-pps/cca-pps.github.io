@@ -106,6 +106,12 @@ url = "/announcements"
 weight = 0
 
 [[extra.menu.main]]
+name = "Meeting Recaps"
+section = "meeting-recaps"
+url = "/meeting-recaps"
+weight = 0
+
+[[extra.menu.main]]
 name = "Join"
 section = "join"
 url = "/join"
