@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://cca-pps.github.io"
 title = "CCA PPS Club"
-description = "We are the Programming and Problem Solving Club, the largest programming club on campus."
+description = "We are the Programming and Problem Solving Club, a group of passionate competitive programmers at Canyon Crest Academy"
 
 # The site theme to use.
 theme = "adidoks"
