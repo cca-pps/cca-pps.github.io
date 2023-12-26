@@ -9,7 +9,7 @@ The 2023 December USACO contest happened from 12/15-12/18.
 The problems and results can be found on their website [here](http://www.usaco.org/index.php?page=dec23results).
 
 Students were given 4 hours to solve 3 challenging algorithmic tasks.
-The contest was split into four divisions of different difficulty levels and doing well in a division would qualify a student to be promoted to the next division. 
+The contest was split into four divisions of different difficulty levels and doing well in a division would promote a student to the next division. 
 
 CCA students performed very well this contest, and there were many club members who promoted.
 
