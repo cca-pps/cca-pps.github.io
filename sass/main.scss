@@ -1,0 +1,13 @@
+@import "../themes/adidoks/sass/main";
+
+$christmas-background: true;
+
+@if $christmas-background {
+  .navbar {
+    background-color: inherit !important;
+  }
+
+  body:not(.dark) {
+    background: url("/cf_background.png") !important;
+  }
+}
