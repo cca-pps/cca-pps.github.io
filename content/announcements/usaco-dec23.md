@@ -19,7 +19,7 @@ Congratulations to:
 - Lucas Han who promoted to the platinum division
 - Lawrence Liu who promoted to the gold division
 - Hansen He who promoted to the gold division
-- Kai Ye who promoted to the gold division
+- Kai Yi who promoted to the gold division
 - Ethan Song who promoted to the silver division
 
 For those of you who didn't promote, be sure to continue working on our weekly problem sets for practice, and best of luck in the January contest.
