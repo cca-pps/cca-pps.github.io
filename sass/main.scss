@@ -2,12 +2,13 @@
 
 $christmas-background: true;
 
+// shamelessly stolen from https://codeforces.org/images/snowflakes-background4.png
 @if $christmas-background {
-  .navbar {
-    background-color: inherit !important;
-  }
-
   body:not(.dark) {
     background: url("/cf_background.png") !important;
+  }
+
+  body.dark {
+    background: url("/cf_background_dark.png") !important;
   }
 }
