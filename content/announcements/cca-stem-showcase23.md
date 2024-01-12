@@ -2,7 +2,6 @@
 title = "CCA Stem Showcase 2023"
 description = "PPS Introduction Slides"
 date = "2023-04-10T20:26:19-07:00"
-update_date = "2023-04-10T20:26:19-07:00"
 template = "blog/page.html"
 +++
 

@@ -1,7 +1,6 @@
 +++
 title = "CALICO Fall 2022 Results"
 date = "2023-04-10T20:01:58-07:00"
-update_date = "2023-04-10T20:01:58-07:00"
 template = "blog/page.html"
 +++
 

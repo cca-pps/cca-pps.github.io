@@ -1,7 +1,6 @@
 +++
 title = "Introduction Meeting 2023"
 date = "2023-09-06T23:12:51+00:00"
-update_date = "2023-09-06T23:12:51+00:00"
 template = "blog/page.html"
 +++
 

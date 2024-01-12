@@ -1,7 +1,6 @@
 +++
 title = "TeamsCode Spring 2023 Results"
 date = "2023-04-10T19:21:55-07:00"
-update_date = "2023-04-10T19:21:55-07:00"
 template = "blog/page.html"
 +++
 

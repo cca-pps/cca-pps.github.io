@@ -1,7 +1,6 @@
 +++
 title = "USACO December 2023"
 date = "2023-12-25T16:05:39-08:00"
-update_date = "2023-12-25T16:05:39-08:00"
 template = "blog/page.html"
 +++
 

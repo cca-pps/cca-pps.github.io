@@ -2,7 +2,6 @@
 title = "Our First Announcement!"
 description = "PPS Website Information"
 date = "2022-10-01T09:35:40-07:00"
-update_date = "2022-10-01T09:35:40-07:00"
 template = "blog/page.html"
 +++
 
