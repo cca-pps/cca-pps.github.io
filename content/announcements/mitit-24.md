@@ -4,7 +4,7 @@ date = "2024-01-24T20:07:44-08:00"
 template = "blog/page.html"
 +++
 
-On January 20th, 4 teams represented our club at [MIT(IT)^2](https://mitit.org/).
+On January 20th, 4 teams represented our club at [M(IT)^2](https://mitit.org/).
 
 The contest had two rounds, each 2.5 hours long. Over 1500 participants and 500 teams participated.
 
