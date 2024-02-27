@@ -1,5 +1,5 @@
 +++
-title = "MIT(IT)^2 2024 Results"
+title = "M(IT)^2 2024 Results"
 date = "2024-01-24T20:07:44-08:00"
 template = "blog/page.html"
 +++
