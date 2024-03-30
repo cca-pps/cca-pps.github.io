@@ -20,6 +20,6 @@ Our club did very well this contest season, with many members achieving a promot
 | Joseph Quan | silver → gold |
 | Kai Yi | silver → gold |
 | Lawrence Liu | silver → gold |
-| Dylan Kim | bronze → gold |
-| Ethan Song | bronze → gold |
-| Larry Wu | bronze → gold |
+| Dylan Kim | bronze → silver |
+| Ethan Song | bronze → silver |
+| Larry Wu | bronze → silver |
