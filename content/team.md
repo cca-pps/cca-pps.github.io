@@ -5,7 +5,7 @@ description = "Our Team"
 
 ## 2024-25 Officers
 
-Thanks to Mrs. Celniker for being our club advisor.
+Thanks to Mr. Agase for being our club advisor.
 
 - President: Ryan Bai
 - Vice Presidents: Alex Backues, Hansen He
