@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>CCA PPS Club</title>
+    <subtitle>We are the Programming and Problem Solving Club, a group of passionate competitive programmers at Canyon Crest Academy</subtitle>
+    <link href="https://cca-pps.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://cca-pps.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-10-02T15:44:56-07:00</updated>
+    <id>https://cca-pps.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>10&#x2F;02&#x2F;24 Meeting</title>
+        <published>2024-10-02T15:44:56-07:00</published>
+        <updated>2024-10-02T15:44:56-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/10-02-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/10-02-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Aidan Bai (8 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Kai Yi (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Rohan Mallick (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Dylan Kim (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Hansen He (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Owen Mao (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;t22P8AwpuF&#x2F;contest&#x2F;552957&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1Za9nrEYoS_eg1cZHjmjhCaU9wYwGZt1pgl-s6noG7WA&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;We&#x27;ll be awarding cows to the top 3 performers (ignoring time penalty, capped at at most 3) in this week&#x27;s problem set.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>09&#x2F;25&#x2F;24 Meeting</title>
+        <published>2024-09-25T15:44:38-07:00</published>
+        <updated>2024-09-25T15:44:38-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/09-25-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/09-25-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Aidan Bai (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Kai Yi (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Dylan Kim (6 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;t22P8AwpuF&#x2F;contest&#x2F;550915&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1O8VIGJBMt4FZnz9ZOfWIDFkVlYUV68a5Nr7SUBtXR28&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;We&#x27;ll be awarding cows to the top 3 performers (ignoring time penalty, capped at at most 3) in this week&#x27;s problem set.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>09&#x2F;18&#x2F;24 Meeting</title>
+        <published>2024-09-18T17:09:50-07:00</published>
+        <updated>2024-09-18T17:09:50-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/09-18-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/09-18-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Aidan Bai (8 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Hansen He (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Rohan Mallick (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;t22P8AwpuF&#x2F;contest&#x2F;548838&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1vhMp9m7kDfkyz1NsHr2LTp2sxceLFQc2-F9n4lc45CQ&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;We&#x27;ll be awarding cows to the top 3 performers (ignoring time penalty, capped at at most 3) in this week&#x27;s problem set.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>09&#x2F;11&#x2F;24 Meeting</title>
+        <published>2024-09-11T17:17:23-07:00</published>
+        <updated>2024-09-11T17:17:23-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/09-11-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/09-11-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Aidan Bai (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Dylan Kim (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Ethan Cai (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Kai Yi (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;t22P8AwpuF&#x2F;contest&#x2F;545193&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1GeBcKMPWIIXDLAEw43iRLJCYlIK9UH1YL5pCLqmonPk&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;We&#x27;ll be awarding cows to the top 3 performers (ignoring time penalty, capped at at most 3) in this week&#x27;s problem set.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>09&#x2F;04&#x2F;24 Meeting</title>
+        <published>2024-09-04T20:09:58-07:00</published>
+        <updated>2024-09-04T20:09:58-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/09-04-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/09-04-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Aidan Bai (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Kai Yi (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Dylan Kim (7 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;t22P8AwpuF&#x2F;contest&#x2F;545192&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides we presented today can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1NbykozRN2TWbi0TrFhXAAhtsBwBxA6uAvLp4BCPwYXw&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.
+We encourage everyone to implement the problems after reading the solutions, both for implementation practice and a better understanding of the problem.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;ll be awarding cows to the top 3 performers (ignoring time penalty) in this week&#x27;s problem set, as well as candy to everyone who solves at least 3 problems.
+Be sure to do the problems when you get a chance to. Thanks for coming today, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>08&#x2F;28&#x2F;24 Meeting</title>
+        <published>2024-08-28T20:03:24-07:00</published>
+        <updated>2024-08-28T20:03:24-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/08-28-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/08-28-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Aidan Bai (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Hansen He (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Kai Yi (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Ethan Cai (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Kaden Wu (6 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;t22P8AwpuF&#x2F;contest&#x2F;543586&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides we presented today can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1dRHUME-CM94XG4-2cv_odupVchwPO1Slu97fViOLxck&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.
+We encourage everyone to implement the problems after reading the solutions, both for implementation practice and a better understanding of the problem.&lt;&#x2F;p&gt;
+&lt;p&gt;Thanks for coming today, and we look forward to seeing you next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Introduction Meeting 2024</title>
+        <published>2024-08-21T23:12:51+00:00</published>
+        <updated>2024-08-21T23:12:51+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/intro-meeting2024/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/intro-meeting2024/</id>
+        
+        <content type="html">&lt;p&gt;Hi all, we had our introduction meeting today. Thank you to all the people who attended the meeting.&lt;&#x2F;p&gt;
+&lt;p&gt;If you missed it, here are the slides for our &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1WOWEHsJJ7bOiTi0LNw863FMkP9xySoe6jCE3iyr0EzY&#x2F;edit?usp=sharing&quot;&gt;Introduction Meeting&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;To sign up for the club, please go to our &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;pps24-signups&quot;&gt;signup form&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;If you haven&#x27;t yet, please join our &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;pps-discord&quot;&gt;Discord&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;pps24-cf&quot;&gt;CodeForces Group&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Thank you all. We look forward to seeing you next week.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>End of Year Announcements</title>
+        <published>2024-05-23T08:40:01-07:00</published>
+        <updated>2024-05-23T08:40:01-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/end-of-year-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/end-of-year-24/</id>
+        
+        <content type="html">&lt;p&gt;We had our end of year celebration yesterday, concluding the 2023-24 school year for PPS. Over the past year, club members collectively made 2512 CodeForces submissions and solved a total of 1324 problems.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;awards&quot;&gt;Awards&lt;&#x2F;h2&gt;
+&lt;p&gt;Congratulations to:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stephen Zhu&lt;&#x2F;li&gt;
+&lt;li&gt;Hansen He&lt;&#x2F;li&gt;
+&lt;li&gt;Kai Yi&lt;&#x2F;li&gt;
+&lt;li&gt;Advait Choksi&lt;&#x2F;li&gt;
+&lt;li&gt;Alex Backues&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;for solving the most problems this school year. The full leaderboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;customrating&#x2F;5471&quot;&gt;here&lt;&#x2F;a&gt; (you will likely need to login to CodeForces).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solution-slides&quot;&gt;Solution Slides&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for all the meetings this year can be found &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;drive&#x2F;folders&#x2F;1F5o9yCPEHGq7jjpg4VldB9ZRJ5BVwygv?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;officers&quot;&gt;Officers&lt;&#x2F;h2&gt;
+&lt;p&gt;The 2024-25 officers were announced yesterday. They are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;President: Ryan Bai&lt;&#x2F;li&gt;
+&lt;li&gt;Vice Presidents: Alex Backues, Hansen He&lt;&#x2F;li&gt;
+&lt;li&gt;Treasurer: Lucas Han&lt;&#x2F;li&gt;
+&lt;li&gt;Secretary: Ryan Wu&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Officer selection criteria included past club participation and programming level. We had a lot of applicants this year. Please don&#x27;t feel discouraged if you weren&#x27;t selected; keep on participating and programming and you&#x27;ll get your chance next year.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;group-photo&quot;&gt;Group Photo&lt;&#x2F;h2&gt;
+&lt;p&gt;Here&#x27;s the group photo we took yesterday.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;2024-group-photo.jpg&quot; width=&quot;100%&quot;&#x2F;&gt; &lt;!-- idk how i&#x27;m supposed to actually do this --&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;Overall, it was a great year of PPS. Our teams consistently ranked in nationwide competitions, and we saw many of our members promote in USACO. We also had a lot of fun chatting, collaborating, and solving problems in our weekly meetings. Many thanks to the officers this year for running the club.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;ll be seeing a few seniors graduate this year; we&#x27;ll miss you and come back to visit often! For the rest of you, we look forward to seeing you again for the 2024-25 school year. Have a great summer everyone!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>CodeSprint LA 2024 Results</title>
+        <published>2024-05-21T13:21:18-07:00</published>
+        <updated>2024-05-21T13:21:18-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/codesprint-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/codesprint-24/</id>
+        
+        <content type="html">&lt;p&gt;Last Saturday, May 18th, our club participated in &lt;a href=&quot;https:&#x2F;&#x2F;codesprintla.uclaacm.com&#x2F;&quot;&gt;CodeSprint LA &#x27;24&lt;&#x2F;a&gt;, a 5 hour ICPC-style contest open to teams all around the world.&lt;&#x2F;p&gt;
+&lt;p&gt;Congratulations to our team, CCA Conspiracy, which placed 2nd in the high school division, solving 12 out of the 13 problems!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>05&#x2F;01&#x2F;24 Meeting</title>
+        <published>2024-05-01T18:26:53-08:00</published>
+        <updated>2024-05-01T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/05-01-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/05-01-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following teams for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ryan Bai, Lucas Han, Hansen He (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Chloe Wang, Alex Backues, Aidan Bai (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Stephen Zhu (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;520252&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1_lQuvf9vwnqNvypMHp9Gs2D9V_teZSOqJn7X747__K8&#x2F;edit&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>CALICO Spring 2024 Results</title>
+        <published>2024-04-29T08:37:32-07:00</published>
+        <updated>2024-04-29T08:37:32-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/calico-spring24/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/calico-spring24/</id>
+        
+        <content type="html">&lt;p&gt;Last Saturday, April 27th, 3 teams represented our club at &lt;a href=&quot;https:&#x2F;&#x2F;calico.cs.berkeley.edu&#x2F;&quot;&gt;CALICO Spring &#x27;24&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Competing amongst over 500 other teams and 900 other competitors,
+members worked together in their teams of 3 during the 3-hour contest to solve 10 challenging algorithmic tasks across 15 subparts. In this contest, CALICO also implemented a medal system, awarding gold, silver, and bronze medals (they call them bricks) to the top 1&#x2F;12, 1&#x2F;6, and 1&#x2F;3 of teams.&lt;&#x2F;p&gt;
+&lt;p&gt;The complete scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20240429154557&#x2F;https:&#x2F;&#x2F;calicojudge.com&#x2F;public&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Congratulations to&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;CCA Conspiracy placing 12th and winning a gold brick&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Unkindness placing 65th and winning a bronze brick&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Treachery placing 82nd and winning a bronze brick&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>04&#x2F;24&#x2F;24 Meeting</title>
+        <published>2024-04-24T18:26:53-08:00</published>
+        <updated>2024-04-24T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/04-24-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/04-24-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in the problem set from two weeks ago:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ryan Bai (9 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Hansen He (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Stephen Zhu (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Kai Yi (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;517214&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1SWTnSwxMs-mRB4bIJWIsC74qZ2GV68gOj4vljYE3n3A&#x2F;edit&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.
+Good luck to everyone participating in CALICO this weekend.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>04&#x2F;17&#x2F;24 Meeting</title>
+        <published>2024-04-18T09:21:13-07:00</published>
+        <updated>2024-04-18T09:21:13-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/04-17-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/04-17-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;tryouts&quot;&gt;Tryouts&lt;&#x2F;h2&gt;
+&lt;p&gt;We had &lt;a href=&quot;https:&#x2F;&#x2F;calico.cs.berkeley.edu&#x2F;&quot;&gt;CALICO Spring&lt;&#x2F;a&gt; tryouts today. Teams will be announced soon.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;officer-applications&quot;&gt;Officer Applications&lt;&#x2F;h2&gt;
+&lt;p&gt;Please consider appling to be an officer if you&#x27;ve attended most of the meetings this year and would be willing to help lead and organize the club next year. The application form can be found in your emails and on our discord. The deadline is 5&#x2F;1.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week, you can continue working on the problem set from last week. We&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>04&#x2F;10&#x2F;24 Meeting</title>
+        <published>2024-04-10T18:26:53-08:00</published>
+        <updated>2024-04-10T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/04-10-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/04-10-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stephen Zhu (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Evan Luo (6 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;514026&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1Q0uQJXVO3ap46T7v180g0h-y473_miDozubacQmU4d0&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.
+Next week, we will be hosting Calico tryouts. To sign up, click &lt;a href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;G25TWjz6gimP3Sdf7&quot;&gt;here&lt;&#x2F;a&gt;.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>TeamsCode Spring 2024 Results</title>
+        <published>2024-04-02T13:36:27-07:00</published>
+        <updated>2024-04-02T13:36:27-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/teamscode-spring24/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/teamscode-spring24/</id>
+        
+        <content type="html">&lt;p&gt;Last saturday, March 30th, 3 teams represented our club at &lt;a href=&quot;https:&#x2F;&#x2F;www.teamscode.org&#x2F;contests&#x2F;spring-2024&#x2F;&quot;&gt;the 2024 spring TeamsCode contest&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Club members worked together in their teams of 4 during the 3-hour contest to solve 12 challenging algorithmic tasks.&lt;&#x2F;p&gt;
+&lt;p&gt;Congratulations to&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;CCA Conspiracy placing 14th in the advanced division&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Treachery placing 18th in the novice division&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Unkindness placing 20th in the novice division&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The scoreboards can be found at: &lt;a href=&quot;https:&#x2F;&#x2F;cca-pps.github.io&#x2F;announcements&#x2F;teamscode-spring24&#x2F;advanced.png&quot;&gt;advanced division&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;cca-pps.github.io&#x2F;announcements&#x2F;teamscode-spring24&#x2F;novice.png&quot;&gt;novice divison&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>USACO 2023-24 Season Results</title>
+        <published>2024-03-28T08:47:29-07:00</published>
+        <updated>2024-03-28T08:47:29-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/usaco-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/usaco-24/</id>
+        
+        <content type="html">&lt;p&gt;With the results of the US Open being announced a few days ago, the 2023-24 USACO contest season has officially concluded. The results for the four contests this season can be found &lt;a href=&quot;https:&#x2F;&#x2F;usaco.org&#x2F;index.php?page=contests&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;In each contest, students are presented three challenging algorithmic tasks to be completed in four or five hours. Each contest is divided into four divisions according to difficulty: bronze, silver, gold, and platinum. Performing well in a division would qualify a student for a promotion into the next division.&lt;&#x2F;p&gt;
+&lt;p&gt;Our club did very well this contest season, with many members achieving a promotion in one of the four contests. Congratulations to:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Name&lt;&#x2F;th&gt;&lt;th&gt;Promotion&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Lucas Han&lt;&#x2F;td&gt;&lt;td&gt;gold → plat&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Stephen Zhu&lt;&#x2F;td&gt;&lt;td&gt;gold → plat&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Chloe Wang&lt;&#x2F;td&gt;&lt;td&gt;silver → gold&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Ethan Cai&lt;&#x2F;td&gt;&lt;td&gt;silver → gold&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Hansen He&lt;&#x2F;td&gt;&lt;td&gt;silver → gold&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Joseph Quan&lt;&#x2F;td&gt;&lt;td&gt;silver → gold&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Kai Yi&lt;&#x2F;td&gt;&lt;td&gt;silver → gold&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Lawrence Liu&lt;&#x2F;td&gt;&lt;td&gt;silver → gold&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Dylan Kim&lt;&#x2F;td&gt;&lt;td&gt;bronze → silver&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Ethan Song&lt;&#x2F;td&gt;&lt;td&gt;bronze → silver&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Larry Wu&lt;&#x2F;td&gt;&lt;td&gt;bronze → silver&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>03&#x2F;27&#x2F;24 Meeting</title>
+        <published>2024-03-27T18:26:53-08:00</published>
+        <updated>2024-03-27T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/03-27-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/03-27-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Alex Backues (4 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Hansen He (4 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;512393&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1rVcPBOtd3lzNxN1dVdeyY3k93Y1ir7Mzfyf8FKJnk98&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.
+Good luck to everyone participating in TeamsCode this weekend.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>03&#x2F;20&#x2F;24 Meeting</title>
+        <published>2024-03-20T18:26:53-08:00</published>
+        <updated>2024-03-20T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/03-20-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/03-20-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individual for their performance in the problem set from two weeks ago:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Richard Sun (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;508906&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1fdLim72STL3XRvCaZPN44CupXhw4diK2tn2cgOFPj8c&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>03&#x2F;13&#x2F;24 Meeting</title>
+        <published>2024-03-13T18:26:53-08:00</published>
+        <updated>2024-03-13T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/03-13-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/03-13-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;tryouts&quot;&gt;Tryouts&lt;&#x2F;h2&gt;
+&lt;p&gt;We had &lt;a href=&quot;https:&#x2F;&#x2F;www.teamscode.org&#x2F;contests&#x2F;spring-2024&quot;&gt;TeamsCode&lt;&#x2F;a&gt; tryouts today. Don&#x27;t forget to signup if you plan on participating. Teams will be announced soon.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week, you can continue working on the problem set from last week. We&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.
+Good luck to everyone taking USACO this weekend.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>03&#x2F;06&#x2F;24 Meeting</title>
+        <published>2024-03-06T18:26:53-08:00</published>
+        <updated>2024-03-06T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/03-06-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/03-06-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hansen He (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Dylan Kim (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Ethan Song (4 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Alex Backues (4 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Stephen Zhu (4 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;507333&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1g-jipXlsZAlvLVOiVA4Ef5sKkqv6lnkccDgXcsDVRmQ&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.&lt;&#x2F;p&gt;
+&lt;p&gt;Next week, we will be hosting TeamsCode tryouts. To sign up, click &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;forms&#x2F;d&#x2F;e&#x2F;1FAIpQLSdU3RxgLPLfwc9sGIwXNjtLDS781SLAiLRlLD2eLFMLH9yTLQ&#x2F;viewform&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>02&#x2F;28&#x2F;24 Meeting</title>
+        <published>2024-02-28T18:26:53-08:00</published>
+        <updated>2024-02-28T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/02-28-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/02-28-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stephen Zhu (8 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Lawrence Liu (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Richard Sun (6 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;506110&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;15alJuD7PC7T9b9z3TMycW3G9CgbBhVNM7wIoFH_we_A&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>02&#x2F;21&#x2F;24 Meeting</title>
+        <published>2024-02-21T18:26:53-08:00</published>
+        <updated>2024-02-21T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/02-21-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/02-21-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Kai Yi (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Alex Backues (6 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;504727&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;13l7xYGWcqoldeECvBukrXkqmfFE0gAmNqRsPuvmXTWc&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>02&#x2F;14&#x2F;24 Meeting</title>
+        <published>2024-02-14T18:26:53-08:00</published>
+        <updated>2024-02-14T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/02-14-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/02-14-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stephen Zhu (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Evan Luo (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Hansen He (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;503181&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1ZVeyYSHPBVppvKzxs0A2RPOLaa3ZXCWs-Cur6uJp1tc&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers who solve at least 6 problems and candy for everyone who solves at least 4 problems.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>02&#x2F;07&#x2F;24 Meeting</title>
+        <published>2024-02-07T18:26:53-08:00</published>
+        <updated>2024-02-07T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/02-07-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/02-07-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stephen Zhu (9 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Larry Wu (8 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Alex Backues (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;501799&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;13-aHuT59QQ46tSrTjWk9Mkz7DztZ2oiRQ7OJ1XKOZnM&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers and candy for everyone who solves at least 4 problems.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>01&#x2F;31&#x2F;24 Meeting</title>
+        <published>2024-01-31T18:26:53-08:00</published>
+        <updated>2024-01-31T18:26:53-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/01-31-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/01-31-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stephen Zhu (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Jonathan Xue (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Dylan Kim (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Advait Choksi (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;500581&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides for the previous week&#x27;s contest can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1Br-U2dGJH7iRC_eE8B7sNkgnz4sCHyRZhKgHP4_YfY4&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers and candy for everyone who solves at least 4 problems.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>M(IT)^2 2024 Results</title>
+        <published>2024-01-24T20:07:44-08:00</published>
+        <updated>2024-01-24T20:07:44-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/mitit-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/mitit-24/</id>
+        
+        <content type="html">&lt;p&gt;On January 20th, 4 teams represented our club at &lt;a href=&quot;https:&#x2F;&#x2F;mitit.org&#x2F;&quot;&gt;M(IT)^2&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;The contest had two rounds, each 2.5 hours long. Over 1500 participants and 500 teams participated.&lt;&#x2F;p&gt;
+&lt;p&gt;The contest was split into two divisions. The scoreboard for the beginner division is &lt;a href=&quot;https:&#x2F;&#x2F;mitit.org&#x2F;Contest&#x2F;ViewScoreboard&#x2F;combined-2024?cid_2=beginner-2024&quot;&gt;here&lt;&#x2F;a&gt; and the scoreboard for the advanced division is &lt;a href=&quot;https:&#x2F;&#x2F;mitit.org&#x2F;Contest&#x2F;ViewScoreboard&#x2F;combined-2024?cid_2=advanced-2024&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Congratulations to&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;CCA Conspiracy placing 4th amongst high school teams and 26th overall in the advanced division&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Treachery placing 47th amongst high school teams and 94th overall in the beginner division&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Unkindness placing 79th amongst high school teams and 157th overall in the beginner division&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Dissimulation placing 84th amongst high school teams and 165th overall in the beginner division&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>01&#x2F;24&#x2F;24 Meeting</title>
+        <published>2024-01-24T20:01:48-08:00</published>
+        <updated>2024-01-24T20:01:48-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/01-24-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/01-24-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Kai Yi (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Stephen Zhu (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Ethan Song (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Katrina Liu (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;499206&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides and notes on binary search we presented can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1hg2NIjNlFH7ncUSqwhz3u1Qr50IBx80ZWlTbg1AgLFw&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers and candy for everyone who solves at least 4 problems.
+Also good luck to everyone taking USACO this weekend.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>01&#x2F;17&#x2F;24 Meeting</title>
+        <published>2024-01-17T19:39:49-08:00</published>
+        <updated>2024-01-17T19:39:49-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/01-17-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/01-17-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problem set:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Lawrence Liu (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Hansen He (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Stephen Zhu (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Kai Yi (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;497366&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides and notes on binary search we presented can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1sqQl4Nqhmd3O4p9EeUngPhc-BUcNoG7za_2dqoICeec&#x2F;edit?usp=drive_link&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problem set we&#x27;ll be awarding cows to the top 3 performers and candy for everyone who solves at least 4 problems.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>01&#x2F;10&#x2F;24 Meeting</title>
+        <published>2024-01-11T20:33:06-08:00</published>
+        <updated>2024-01-11T20:33:06-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/01-10-24/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/01-10-24/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in our winter break problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hansen He (15 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Raymond Peng (15 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Evan Luo (14 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Kai Yi (13 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Stephen Zhu (13 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Dylan Kim (12 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;492674&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;We don&#x27;t have solution slides for this problemset, but feel free to ask for hints or solutions in our Discord server.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;For this week&#x27;s problemset we&#x27;ll be awarding cows to the top 3 performers and candy for everyone who solves at least 4 problems.
+Thanks for coming, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>USACO December 2023</title>
+        <published>2023-12-25T16:05:39-08:00</published>
+        <updated>2023-12-25T16:05:39-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/usaco-dec23/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/usaco-dec23/</id>
+        
+        <content type="html">&lt;p&gt;The 2023 December USACO contest happened from 12&#x2F;15-12&#x2F;18.
+The problems and results can be found on their website &lt;a href=&quot;http:&#x2F;&#x2F;www.usaco.org&#x2F;index.php?page=dec23results&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Students were given 4 hours to solve 3 challenging algorithmic tasks.
+The contest was split into four divisions of different difficulty levels and doing well in a division would promote a student to the next division. &lt;&#x2F;p&gt;
+&lt;p&gt;CCA students performed very well this contest, and there were many club members who promoted.&lt;&#x2F;p&gt;
+&lt;p&gt;Congratulations to:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stephen Zhu who promoted to the platinum division (with a perfect score!)&lt;&#x2F;li&gt;
+&lt;li&gt;Lucas Han who promoted to the platinum division&lt;&#x2F;li&gt;
+&lt;li&gt;Lawrence Liu who promoted to the gold division&lt;&#x2F;li&gt;
+&lt;li&gt;Hansen He who promoted to the gold division&lt;&#x2F;li&gt;
+&lt;li&gt;Kai Yi who promoted to the gold division&lt;&#x2F;li&gt;
+&lt;li&gt;Ethan Song who promoted to the silver division&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;For those of you who didn&#x27;t promote, be sure to continue working on our weekly problem sets for practice, and best of luck in the January contest.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>12&#x2F;13&#x2F;23 Meeting</title>
+        <published>2023-12-13T20:01:22-08:00</published>
+        <updated>2023-12-13T20:01:22-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/12-13-23/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/12-13-23/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ethan Song (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Dylan Kim (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Hansen He (6 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;491297&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The slides we presented today can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1n7EXY-uAJUsC0SwaRrPLTd7grcw5TY6ZtRHZztlVh5U&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Our next meeting will be four weeks later, so our problemset will be a bit larger this time.
+We&#x27;ll be awarding cows to the top 3 performers and candy for everyone who solves at least 6 problems.&lt;&#x2F;p&gt;
+&lt;p&gt;This was our last meeting of 2023. Thank you all for the great semester. Good luck on your finals, enjoy your winter break, and we&#x27;ll see you in 2024.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>12&#x2F;06&#x2F;23 Meeting</title>
+        <published>2023-12-06T20:28:55-08:00</published>
+        <updated>2023-12-06T20:28:55-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/12-06-23/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/12-06-23/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Lawrence Liu (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Ethan Song (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Advait Choksi (5 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Evan Luo (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;489771&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The slides we presented today can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;15T0i4m9xXm-ODAXRei_VdIDc9M6PugR829vsE0IiD4o&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;ll be awarding cows to the top 3 performers (ignoring time penalty, capped at at most 3) in this week&#x27;s problem set, as well as candy to everyone who solves at least 4 problems.
+Be sure to do the problems.&lt;&#x2F;p&gt;
+&lt;p&gt;Thanks for coming today, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>CALICO Fall 2023 Results</title>
+        <published>2023-11-26T12:07:11-08:00</published>
+        <updated>2023-11-26T12:07:11-08:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/calico-fall23/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/calico-fall23/</id>
+        
+        <content type="html">&lt;p&gt;On November 18th, 5 teams represented our club at &lt;a href=&quot;https:&#x2F;&#x2F;calico.cs.berkeley.edu&#x2F;&quot;&gt;CALICO Fall &#x27;23&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Competing amongst over 500 other teams and 1100 other competitors,
+members worked together in their teams of 3 during the 3-hour contest to solve 13 challenging algorithmic tasks across 25 subparts.&lt;&#x2F;p&gt;
+&lt;p&gt;The complete scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20231126201041&#x2F;https:&#x2F;&#x2F;calicojudge.com&#x2F;domjudge&#x2F;public&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Congratulations to&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;CCA Conspiracy placing 13th&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Dissimulation placing 77th&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Unkindness placing 81st&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Treachery placing 85th&lt;&#x2F;li&gt;
+&lt;li&gt;CCA Deceit placing 182nd&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>10&#x2F;04&#x2F;23 Meeting</title>
+        <published>2023-10-04T23:23:22+00:00</published>
+        <updated>2023-10-04T23:23:22+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/10-04-23/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/10-04-23/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Aidan Bai (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Alex Backues (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Stephen Zhu (6 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Also congratulations to Kai Yi, Lawrence Liu, Evan Luo, and Larry Wu who each solved 5 problems.&lt;&#x2F;p&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;475643&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides we presented today can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1Dl17YXGrbv-lJKZknKSW0VcVOMHHrAmwB2ZazhRBmwI&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.
+We encourage everyone to implement the problems after reading the solutions, both for implementation practice and a better understanding of the problem.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;ll be awarding cows to the top 3 performers (ignoring time penalty) in this week&#x27;s problem set, as well as candy to everyone who solves at least 4 problems. Be sure to do the problems when you get a chance to.&lt;&#x2F;p&gt;
+&lt;p&gt;Thanks for coming today, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>09&#x2F;27&#x2F;23 Meeting</title>
+        <published>2023-09-28T05:02:31+00:00</published>
+        <updated>2023-09-28T05:02:31+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/09-27-23/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/09-27-23/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Aidan Bai (10 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Evan Luo (8 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Stephen Zhu (8 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Also congratulations to Lawrence Liu, Hansen He, and Alex Backues who each solved 7 problems.&lt;&#x2F;p&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;474321&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides we presented today can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1LZsBOceccBN8_TkpW6CyaFLXnDbh7lPgnOfBl_qT8Rc&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.
+We encourage everyone to implement the problems after reading the solutions, both for implementation practice and a better understanding of the problem.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;ll be awarding cows to the top 3 performers (ignoring time penalty) in this week&#x27;s problem set, as well as candy to everyone who solves at least 3 problems. Be sure to do the problems when you get a chance to.&lt;&#x2F;p&gt;
+&lt;p&gt;Thanks for coming today, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>09&#x2F;20&#x2F;23 Meeting</title>
+        <published>2023-09-20T20:09:58-07:00</published>
+        <updated>2023-09-20T20:09:58-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/09-20-23/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/09-20-23/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stephen Zhu (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Aidan Bai (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Evan Luo (5 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Also congratulations to Ryan Wu, who solved problems D, E, and F.&lt;&#x2F;p&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;473162&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides we presented today can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1JTSDS6ECbqYJXMmAMTWEkDV6zIBwXyNAX8r2-kl64PU&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.
+We encourage everyone to implement the problems after reading the solutions, both for implementation practice and a better understanding of the problem.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;ll be awarding cows to the top 3 performers (ignoring time penalty) in this week&#x27;s problem set, as well as candy to everyone who solves at least 3 problems.
+Be sure to do the problems when you get a chance to. Thanks for coming today, and we&#x27;ll see you all next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>09&#x2F;13&#x2F;23 Meeting</title>
+        <published>2023-09-20T20:03:24-07:00</published>
+        <updated>2023-09-20T20:03:24-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/meeting-recaps/09-13-23/" type="text/html"/>
+        <id>https://cca-pps.github.io/meeting-recaps/09-13-23/</id>
+        
+        <content type="html">&lt;h2 id=&quot;prizes&quot;&gt;Prizes&lt;&#x2F;h2&gt;
+&lt;p&gt;Congrats to the following individuals for their performance in last week&#x27;s problemset:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Stephen Zhu (7 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Alex Backues (6 problems solved)&lt;&#x2F;li&gt;
+&lt;li&gt;Larry Wu (6 problems solved)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;The full scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;codeforces.com&#x2F;group&#x2F;56LvjuJGwY&#x2F;contest&#x2F;471721&#x2F;standings&#x2F;groupmates&#x2F;true&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;solutions&quot;&gt;Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;The solution slides we presented today can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1EzA3OswvkoARGKrzrM3eVB-ZDIa2F8PWY4M8n7VQjbk&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.
+We encourage everyone to implement the problems after reading the solutions, both for implementation practice and a better understanding of the problem.&lt;&#x2F;p&gt;
+&lt;p&gt;Thanks for coming today, and we look forward to seeing you next week!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Introduction Meeting 2023</title>
+        <published>2023-09-06T23:12:51+00:00</published>
+        <updated>2023-09-06T23:12:51+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/intro-meeting2023/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/intro-meeting2023/</id>
+        
+        <content type="html">&lt;p&gt;Hi all, we had our introduction meeting today. Thank you to all the people who attended the meeting.&lt;&#x2F;p&gt;
+&lt;p&gt;If you missed it, here are the slides for our &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;17anJKWca9aNl3NRP5V2h19uoJPTFKEzTou407VMejQg&#x2F;edit?usp=sharing&quot;&gt;Introduction Meeting&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;To sign up for the club, please go to our &lt;a href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;pps23-signups&quot;&gt;signup form&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;If you haven&#x27;t yet, please join our &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;pps-discord&quot;&gt;Discord&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;pps23-cf&quot;&gt;CodeForces Group&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Thank you all. We look forward to seeing you next week.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>CCA Stem Showcase 2023</title>
+        <published>2023-04-10T20:26:19-07:00</published>
+        <updated>2023-04-10T20:26:19-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/cca-stem-showcase23/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/cca-stem-showcase23/</id>
+        
+        <content type="html">&lt;p&gt;Thanks to everyone who came and checked out our booth in the stem showcase.
+The slides we presented can be found &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1QlgDnfVG9aqfIj9_PAAlDJDEwJ7yh4d79oD78sF788g&#x2F;edit?usp=sharing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;If you&#x27;re interested in programming and what we do, be sure to join our club (details &lt;a href=&quot;https:&#x2F;&#x2F;cca-pps.github.io&#x2F;join&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;)!
+We look forward to seeing you next year!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>CALICO Fall 2022 Results</title>
+        <published>2023-04-10T20:01:58-07:00</published>
+        <updated>2023-04-10T20:01:58-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/calico-fall22/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/calico-fall22/</id>
+        
+        <content type="html">&lt;p&gt;On November 26th, 3 teams represented our club at &lt;a href=&quot;https:&#x2F;&#x2F;calico.cs.berkeley.edu&#x2F;&quot;&gt;CALICO Fall &#x27;22&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Competing amongst over 200 other teams and 600 other competitors,
+members worked together in their teams of 3 during the 3-hour contest to solve 12 challenging algorithmic tasks.&lt;&#x2F;p&gt;
+&lt;p&gt;Congratulations to CCA Team 1 placing 2nd, CCA Team 2 placing 58th, and CCA Team 3 placing 60th!
+The archived scoreboard can be found &lt;a href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20221129211342&#x2F;https:&#x2F;&#x2F;calicojudge.com&#x2F;domjudge&#x2F;public&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>TeamsCode Spring 2023 Results</title>
+        <published>2023-04-10T19:21:55-07:00</published>
+        <updated>2023-04-10T19:21:55-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/teamscode-spring23/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/teamscode-spring23/</id>
+        
+        <content type="html">&lt;p&gt;Last saturday, 4 teams represented our club at &lt;a href=&quot;https:&#x2F;&#x2F;www.teamscode.org&#x2F;contests&#x2F;spring-2023&#x2F;&quot;&gt;the 2023 spring TeamsCode contest&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Club members worked together in their teams of 4 during the 3-hour contest to solve 12 challenging algorithmic tasks.&lt;&#x2F;p&gt;
+&lt;p&gt;Special congratulations to CCA Team 1, who placed 5th among 212 total teams!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Our First Announcement!</title>
+        <published>2022-10-01T09:35:40-07:00</published>
+        <updated>2022-10-01T09:35:40-07:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://cca-pps.github.io/announcements/firstannouncement/" type="text/html"/>
+        <id>https://cca-pps.github.io/announcements/firstannouncement/</id>
+        
+        <content type="html">&lt;p&gt;Hello everyone, and welcome to the new Programming and Problem Solving Club website!&lt;&#x2F;p&gt;
+&lt;p&gt;Here, we will be posting slides and making announcements for competitions.&lt;&#x2F;p&gt;
+&lt;p&gt;As time passes, we will add more features and fun to our site! We hope to continue to see you all on Wednesdays after school (F101)!&lt;&#x2F;p&gt;
+&lt;p&gt;If you are new here, click around and consider joining the club! We promise it&#x27;s very fun :)&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
