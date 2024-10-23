@@ -14,7 +14,7 @@ default_language = "en"
 compile_sass = true
 
 # Whether to generate a feed file for the site
-generate_feed = true
+generate_feeds = true
 
 # When set to "true", the generated HTML files are minified.
 minify_html = true
@@ -26,6 +26,9 @@ taxonomies = []
 # When set to "true", a search index is built from the pages and section
 # content for `default_language`.
 build_search_index = false
+
+[link_checker]
+external_level = "warn"
 
 [search]
 # Whether to include the title of the page/section in the index
