@@ -1,6 +1,6 @@
 @import "../themes/adidoks/sass/main";
 
-$christmas-background: true;
+$christmas-background: false;
 
 // shamelessly stolen from https://codeforces.org/images/snowflakes-background4.png
 @if $christmas-background {
