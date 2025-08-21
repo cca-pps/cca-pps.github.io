@@ -3,6 +3,15 @@ title = "Our Team"
 description = "Our Team"
 +++
 
+## 2025-26 Officers
+
+Thanks to Mr. Agase for being our club advisor.
+
+- President: Lawrence Liu
+- Vice Presidents: Lucas Han, Hansen He
+- Treasurer: Aidan Bai
+- Secretary: Rohan Mallick
+
 ## 2024-25 Officers
 
 Thanks to Mr. Agase for being our club advisor.
