@@ -3,11 +3,11 @@ title = "Join Us"
 description = "Information to join the club"
 +++
 
-Please join our [discord server](https://discord.gg/9rQCv97) where we post most of our updates.
+Please join our [discord server](https://bit.ly/pps-discord) where we post most of our updates.
 
 To participate in our weekly problem sets, please register for an account on [CodeForces](https://codeforces.com/register)
-and join our [CodeForces Group](https://codeforces.com/group/t22P8AwpuF/contests) (click the join button at the bottom right hand side of your screen).
+and join our [CodeForces Group](https://bit.ly/pps25-cf) (click the join button at the bottom right hand side of your screen).
 
-Finally, please join our mailing list by filling out our [Signup Form](https://forms.gle/5BLfCEnEu4mhxJ5j9).
+Finally, please join our mailing list by filling out our [Signup Form](http://bit.ly/pps25-signups).
 
 We are looking forward to seeing you at our weekly meetings!
