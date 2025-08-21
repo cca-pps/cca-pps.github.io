@@ -1,5 +1,5 @@
 +++
-title = "Introduction Meeting 2024"
+title = "Introduction Meeting 2025"
 date = "2025-08-20T15:45:00-08:00"
 template = "blog/page.html"
 +++
