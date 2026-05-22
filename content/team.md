@@ -2,7 +2,15 @@
 title = "Our Team"
 description = "Our Team"
 +++
+## 2026-27 Officers
 
+Thanks to Mr. Agase for being our club advisor.
+
+- President: Aidan Bai
+- Vice Presidents: Dylan Kim, William Allen
+- Treasurer: Jake Kuo
+- Secretary: Smaran Mukkavilli
+  
 ## 2025-26 Officers
 
 Thanks to Mr. Agase for being our club advisor.
