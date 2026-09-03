@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cca-pps.github.io/sitemap.xml
